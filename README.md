@@ -1,4 +1,5 @@
 ![Kitura](https://raw.githubusercontent.com/IBM-Swift/Kitura/master/Documentation/KituraLogo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaderfeijo%2FKitura.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaderfeijo%2FKitura?ref=badge_shield)
 
 **A Swift Web Framework and HTTP Server**
 
@@ -52,3 +53,7 @@ You can find more info on contributing to Kitura in our [contributing guidelines
 ## Community
 
 We love to talk server-side Swift, and Kitura. Join our [Slack](http://swift-at-ibm-slack.mybluemix.net/) to meet the team!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaderfeijo%2FKitura.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaderfeijo%2FKitura?ref=badge_large)
